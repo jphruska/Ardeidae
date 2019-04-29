@@ -1,0 +1,17 @@
+#!/bin/sh
+#$ -V
+#$ -cwd
+#$ -S /bin/bash
+#$ -N ardeidae_trim_shortest_incomplete
+#$ -q omni
+#$ -pe sm 20
+#$ -P quanah
+#$ -l h_vmem=6G
+
+
+phyluce_align_trim_nexus_using_ref --alignments ./ardeidae_incomplete/mafft-nexus-internal-trimmed-gblocks-clean-75p/ \
+    --output ./ardeidae_incomplete/mafft-nexus-internal-trimmed-trim-shortest-attempt-2/ \
+    --cores 20 \ 
+    --reference zonerodius_heliosylus_110742 \
+    --target ALL \ 
+    
