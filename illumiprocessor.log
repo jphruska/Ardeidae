@@ -1,0 +1,92 @@
+2019-01-30 11:29:18,001 - illumiprocessor - INFO - ==================== Starting illumiprocessor ===================
+2019-01-30 11:29:18,001 - illumiprocessor - INFO - Version: 2.0.9
+2019-01-30 11:29:18,001 - illumiprocessor - INFO - Argument --config: ./heron_illumiprocessor_all.conf
+2019-01-30 11:29:18,001 - illumiprocessor - INFO - Argument --cores: 8
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --input: /Users/mantheylab2/Desktop/Herons/Heron_all_raw
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --log_path: /Users/mantheylab2/Desktop/Herons
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --min_len: 40
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --no_merge: False
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --output: /Users/mantheylab2/Desktop/Herons/Heron_all_clean
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --phred: phred33
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --r1_pattern: _R1_001
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --r2_pattern: R2_001
+2019-01-30 11:29:18,002 - illumiprocessor - INFO - Argument --se: False
+2019-01-30 11:29:18,003 - illumiprocessor - INFO - Argument --trimmomatic: /Users/mantheylab2/anaconda2/bin/trimmomatic
+2019-01-30 11:29:18,003 - illumiprocessor - INFO - Argument --verbosity: INFO
+2019-01-30 11:29:45,238 - illumiprocessor - INFO - ==================== Starting illumiprocessor ===================
+2019-01-30 11:29:45,238 - illumiprocessor - INFO - Version: 2.0.9
+2019-01-30 11:29:45,238 - illumiprocessor - INFO - Argument --config: ./heron_illumiprocessor_all.conf
+2019-01-30 11:29:45,238 - illumiprocessor - INFO - Argument --cores: 8
+2019-01-30 11:29:45,239 - illumiprocessor - INFO - Argument --input: /Users/mantheylab2/Desktop/Herons/Heron_all_raw
+2019-01-30 11:29:45,239 - illumiprocessor - INFO - Argument --log_path: /Users/mantheylab2/Desktop/Herons
+2019-01-30 11:29:45,239 - illumiprocessor - INFO - Argument --min_len: 40
+2019-01-30 11:29:45,239 - illumiprocessor - INFO - Argument --no_merge: False
+2019-01-30 11:29:45,239 - illumiprocessor - INFO - Argument --output: /Users/mantheylab2/Desktop/Herons/Heron_all_clean
+2019-01-30 11:29:45,239 - illumiprocessor - INFO - Argument --phred: phred33
+2019-01-30 11:29:45,239 - illumiprocessor - INFO - Argument --r1_pattern: _R1_001
+2019-01-30 11:29:45,239 - illumiprocessor - INFO - Argument --r2_pattern: R2_001
+2019-01-30 11:29:45,240 - illumiprocessor - INFO - Argument --se: False
+2019-01-30 11:29:45,240 - illumiprocessor - INFO - Argument --trimmomatic: /Users/mantheylab2/anaconda2/bin/trimmomatic
+2019-01-30 11:29:45,240 - illumiprocessor - INFO - Argument --verbosity: INFO
+2019-01-30 11:30:45,530 - illumiprocessor - INFO - ==================== Starting illumiprocessor ===================
+2019-01-30 11:30:45,530 - illumiprocessor - INFO - Version: 2.0.9
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --config: ./heron_illumiprocessor_all_2.conf
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --cores: 8
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --input: /Users/mantheylab2/Desktop/Herons/Heron_all_raw
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --log_path: /Users/mantheylab2/Desktop/Herons
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --min_len: 40
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --no_merge: False
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --output: /Users/mantheylab2/Desktop/Herons/Heron_all_clean
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --phred: phred33
+2019-01-30 11:30:45,531 - illumiprocessor - INFO - Argument --r1_pattern: _R1_001
+2019-01-30 11:30:45,532 - illumiprocessor - INFO - Argument --r2_pattern: R2_001
+2019-01-30 11:30:45,532 - illumiprocessor - INFO - Argument --se: False
+2019-01-30 11:30:45,532 - illumiprocessor - INFO - Argument --trimmomatic: /Users/mantheylab2/anaconda2/bin/trimmomatic
+2019-01-30 11:30:45,532 - illumiprocessor - INFO - Argument --verbosity: INFO
+2019-01-30 11:34:54,963 - illumiprocessor - INFO - ==================== Starting illumiprocessor ===================
+2019-01-30 11:34:54,964 - illumiprocessor - INFO - Version: 2.0.9
+2019-01-30 11:34:54,964 - illumiprocessor - INFO - Argument --config: ./heron_illumiprocessor_all_2.conf
+2019-01-30 11:34:54,964 - illumiprocessor - INFO - Argument --cores: 8
+2019-01-30 11:34:54,964 - illumiprocessor - INFO - Argument --input: /Users/mantheylab2/Desktop/Herons/Heron_all_raw
+2019-01-30 11:34:54,964 - illumiprocessor - INFO - Argument --log_path: /Users/mantheylab2/Desktop/Herons
+2019-01-30 11:34:54,964 - illumiprocessor - INFO - Argument --min_len: 40
+2019-01-30 11:34:54,964 - illumiprocessor - INFO - Argument --no_merge: False
+2019-01-30 11:34:54,964 - illumiprocessor - INFO - Argument --output: /Users/mantheylab2/Desktop/Herons/Heron_all_clean
+2019-01-30 11:34:54,965 - illumiprocessor - INFO - Argument --phred: phred33
+2019-01-30 11:34:54,965 - illumiprocessor - INFO - Argument --r1_pattern: _R1_001
+2019-01-30 11:34:54,965 - illumiprocessor - INFO - Argument --r2_pattern: R2_001
+2019-01-30 11:34:54,965 - illumiprocessor - INFO - Argument --se: False
+2019-01-30 11:34:54,965 - illumiprocessor - INFO - Argument --trimmomatic: /Users/mantheylab2/anaconda2/bin/trimmomatic
+2019-01-30 11:34:54,965 - illumiprocessor - INFO - Argument --verbosity: INFO
+2019-01-30 11:36:02,051 - illumiprocessor - INFO - ==================== Starting illumiprocessor ===================
+2019-01-30 11:36:02,051 - illumiprocessor - INFO - Version: 2.0.9
+2019-01-30 11:36:02,052 - illumiprocessor - INFO - Argument --config: ./heron_illumiprocessor_all_2.conf
+2019-01-30 11:36:02,052 - illumiprocessor - INFO - Argument --cores: 8
+2019-01-30 11:36:02,052 - illumiprocessor - INFO - Argument --input: /Users/mantheylab2/Desktop/Herons/Heron_all_raw
+2019-01-30 11:36:02,052 - illumiprocessor - INFO - Argument --log_path: /Users/mantheylab2/Desktop/Herons
+2019-01-30 11:36:02,052 - illumiprocessor - INFO - Argument --min_len: 40
+2019-01-30 11:36:02,052 - illumiprocessor - INFO - Argument --no_merge: False
+2019-01-30 11:36:02,052 - illumiprocessor - INFO - Argument --output: /Users/mantheylab2/Desktop/Herons/Heron_all_clean
+2019-01-30 11:36:02,052 - illumiprocessor - INFO - Argument --phred: phred33
+2019-01-30 11:36:02,053 - illumiprocessor - INFO - Argument --r1_pattern: _R1_001
+2019-01-30 11:36:02,053 - illumiprocessor - INFO - Argument --r2_pattern: R2_001
+2019-01-30 11:36:02,053 - illumiprocessor - INFO - Argument --se: False
+2019-01-30 11:36:02,053 - illumiprocessor - INFO - Argument --trimmomatic: /Users/mantheylab2/anaconda2/bin/trimmomatic
+2019-01-30 11:36:02,053 - illumiprocessor - INFO - Argument --verbosity: INFO
+2019-01-30 11:37:22,999 - illumiprocessor - INFO - ==================== Starting illumiprocessor ===================
+2019-01-30 11:37:22,999 - illumiprocessor - INFO - Version: 2.0.9
+2019-01-30 11:37:22,999 - illumiprocessor - INFO - Argument --config: ./heron_illumiprocessor_all_2.conf
+2019-01-30 11:37:22,999 - illumiprocessor - INFO - Argument --cores: 8
+2019-01-30 11:37:22,999 - illumiprocessor - INFO - Argument --input: /Users/mantheylab2/Desktop/Herons/Heron_all_raw
+2019-01-30 11:37:22,999 - illumiprocessor - INFO - Argument --log_path: /Users/mantheylab2/Desktop/Herons
+2019-01-30 11:37:22,999 - illumiprocessor - INFO - Argument --min_len: 40
+2019-01-30 11:37:23,000 - illumiprocessor - INFO - Argument --no_merge: False
+2019-01-30 11:37:23,000 - illumiprocessor - INFO - Argument --output: /Users/mantheylab2/Desktop/Herons/Heron_all_clean
+2019-01-30 11:37:23,000 - illumiprocessor - INFO - Argument --phred: phred33
+2019-01-30 11:37:23,000 - illumiprocessor - INFO - Argument --r1_pattern: _R1_001
+2019-01-30 11:37:23,000 - illumiprocessor - INFO - Argument --r2_pattern: R2_001
+2019-01-30 11:37:23,000 - illumiprocessor - INFO - Argument --se: False
+2019-01-30 11:37:23,000 - illumiprocessor - INFO - Argument --trimmomatic: /Users/mantheylab2/anaconda2/bin/trimmomatic
+2019-01-30 11:37:23,000 - illumiprocessor - INFO - Argument --verbosity: INFO
+2019-01-30 11:37:23,103 - illumiprocessor - INFO - Trimming samples with Trimmomatic
+2019-01-30 12:24:10,394 - illumiprocessor - INFO - =================== Completed illumiprocessor ===================
