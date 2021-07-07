@@ -14,4 +14,5 @@ phyluce_assembly_get_fastas_from_match_counts \
     --locus-db ./match_contigs_to_probes/probe.matches.sqlite \
     --match-count-output ./ardeidae_no_toepads/ardeidae_incomplete/dataset2.incomplete.conf \
     --output ./ardeidae_no_toepads/ardeidae_incomplete/dataset2.incomplete.fasta \
+    --incomplete-matrix ./taxon-sets/dataset2/dataset2.incomplete \
     --log-path ./ardeidae_no_toepads/ardeidae_incomplete/get_fasta_match_counts_log
