@@ -11,9 +11,9 @@ Illustration by Sarah MacLean.
 
 ### MtDNA assembly, aligning, and phylogenetic analysis. 
 
-We assembled mtDNA sequences of most individuals (48 out of 58) using off-target (non-UCE) reads. Here we used MITObim, which employs the assembler MIRA. Sequences that had 65% or greater similarity to a Gorsachius magnificus assembly (GenBank # KT364529) were subsequently extracted and identified to one of 13 mtDNA coding regions. We then aligned each coding region separately with MAFFT, as implemented by Geneious. Individual coding region alignments were subsequently concatenated. This alignment was then used to estimate phylogenetic trees with RAxML (as implemented by Geneious) and BEAST. 
+We assembled mtDNA sequences of most individuals (48 out of 58) using off-target (non-UCE) reads. Here we used MITObim, which employs the assembler MIRA. Sequences that had 65% or greater similarity to a Gorsachius magnificus assembly (GenBank # KT364529) were subsequently extracted and identified to one of 13 mtDNA coding regions. We then aligned each coding region separately with MAFFT, as implemented by Geneious. Individual coding region alignments were subsequently concatenated. This alignment was then used to estimate phylogenetic trees with RAxML (as implemented by Geneious) and BEAST. More details and scripts are provided in the **mtDNA_assembly_phylogeny** folder of this repository. 
 
-## UCE extraction and alignment
+### UCE extraction and alignment
 
 
 
