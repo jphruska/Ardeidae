@@ -5,7 +5,7 @@ This repository documents the methodology of Hruska et al. 2023 (doi:#), where w
 For inquiries regarding any of the analyses implemented in the manuscript, please don't hesitate to contact me at jackphruska@gmail.com
 
 ![Illustration of Reddish Egret (Egretta rufescens)](https://github.com/jphruska/Ardeidae/blob/master/reddish_egret.jpg)
-Illustration of the Reddish Egret (*Egretta rufescens*) by Sarah MacLean. 
+Illustration of the Reddish Egret *Egretta rufescens* by Sarah MacLean. 
 
 ### Fastq trimming, cleaning, and contig assembly. 
 
