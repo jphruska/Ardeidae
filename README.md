@@ -1,6 +1,6 @@
 # Heron (Aves:Ardeidae) phylogeny 
 
-This repository documents the methodology of Hruska et al. 2023 (doi:#), where we estimated a molecular phylogeny of herons using ultraconserved elements (UCEs) sequenced from 58 species. In addition, we explore approaches that could ameliorate phylogenetic artifacts that are comonly introduced when using sequences from historical samples (e.g.,toepads), assess the robustness of the phylogeny in light of patterns of gene-tree discordance, and estimate rates of molecular evolution along branches of the phylogeny. This repository will be of use to anyone interested in carrying out phylogenetic analysis of UCEs, particularly if they are incorporating 'historical' samples.   
+This repository documents the methodology of Hruska et al. (2023) (doi:#), where we estimated a molecular phylogeny of herons using ultraconserved elements (UCEs) sequenced from 58 species. In addition, we explore approaches that could ameliorate phylogenetic artifacts that are comonly introduced when using sequences from historical samples (e.g.,toepads), assess the robustness of the phylogeny in light of patterns of gene-tree discordance, and estimate rates of molecular evolution along branches of the phylogeny. This repository will be of use to anyone interested in carrying out phylogenetic analysis of UCEs, particularly if they are incorporating 'historical' samples.   
 
 For inquiries regarding any of the analyses implemented in the manuscript, please don't hesitate to contact me at jackphruska@gmail.com
 
