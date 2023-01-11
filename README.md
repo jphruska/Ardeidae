@@ -7,6 +7,8 @@ For inquiries regarding any of the analyses implemented in the manuscript, pleas
 ![Illustration of Reddish Egret (Egretta rufescens)](https://github.com/jphruska/Ardeidae/blob/master/reddish_egret.jpg)
 Illustration of the Reddish Egret *Egretta rufescens* by Sarah MacLean. 
 
+## Data
+
 ### Fastq trimming, cleaning, and contig assembly. 
 
 ### MtDNA assembly, aligning, and phylogenetic analysis. 
