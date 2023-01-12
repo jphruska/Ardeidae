@@ -24,6 +24,7 @@ We assembled mtDNA sequences of most individuals (48 out of 58) using off-target
 
 ## 
 ## Gene-tree species-tree discordance 
+We explored patterns of gene-tree/species-tree discordance for a proposed phylogeny of herons. Phylogenies of the complete (UCEs found in all species) and incomplete (UCEs found in at least 75% of all species) tissue datasets produced mostly concordant topologies (Figure 2 & Supplemental Figures S1-S4), with the exception of the placement of *Gorsachius melanolophus*, which was recovered either as sister to the rest of the Ardeinae or as sister to a clade that consisted of (*Ardea* + night herons + (*Ardeola* + *Butorides*)). To explore the proportion of gene trees and sites that support these two alternative topologies we explored patterns of gene-tree species-tree discordance with PhyParts and gene and site discordance with IQTree. We carried out these analyses for all nodes of the alternative topologies and suggest that discordance is commonplace across nodes of the heron tree, even for those with high bootstrap/posterior probability support. While gene and site discordance are commonplace, few nodes have a substantial proportion of genes or sites that support an alternative bipartition (for a given node), which suggests that while discordance is common, the proposed phylogeny (Figure 2) is the most plausible, moving forward. More details and scripts are provided in the **Gene-tree_species-tree_discordance** folder of this repository. 
 
 ## Molecular rate variation analysis
 
