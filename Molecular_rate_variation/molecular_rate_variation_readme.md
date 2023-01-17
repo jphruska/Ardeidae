@@ -18,4 +18,4 @@
 
 ## Two-cluster (Takezaki) tests in LINTRE
 
-1. Code for prepping alignment and tree files for LINTRE is included in 02_LINTRE.R. This also includes the one-liner of code to run LINTRE once the input file has been generated. Also includes code to generate Figure 5 of the manuscript. 
+1. Code for prepping alignment and tree files for LINTRE is included in 02_LINTRE.R. This also includes the one-liner of code to run LINTRE once the input file has been generated and code to generate Figure 5 of the manuscript. 
