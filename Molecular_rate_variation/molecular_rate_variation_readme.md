@@ -23,4 +23,3 @@ do
 	cd ../
 done
 `
- as
