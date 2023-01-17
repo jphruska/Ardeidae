@@ -1,5 +1,6 @@
 # Molecular Rate Variation Workflow
 
+## Prepping subsets of UCEs for relaxed clock analysis in BEAST 
 1. Copy over all UCEs found in the complete tissue dataset (dataset 6a) into one dataset. 
 
 2. Make folders for each subset of UCEs (in this case 5) with mkdir. 
@@ -15,3 +16,6 @@
 6. Run AMAS (01_AMAS_concat.sh) for each subset to concatenate UCEs and generate nexus alignment (with partition information). 
 
 
+## Two-cluster (Takezaki) tests in LINTRE
+
+1. Code for prepping alignment and tree files for LINTRE is included in 02_LINTRE.R. This also includes the one-liner of code to run LINTRE once the input file has been generated. Also includes code to generate Figure 5 of the manuscript. 
