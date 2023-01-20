@@ -1,5 +1,6 @@
 # Gene-tree_species-tree_discordance workflow
 
+Please note that only one rooted gene tree is included in this directory (to serve as an example). If you would like access to the remaining rooted gene trees I would be happy to share. The unrooted gene trees for this same dataset are also included in the Dryad repository associated with the manuscript. 
 
 # Gene-tree discordance with PhyParts
 
