@@ -17,5 +17,13 @@ Please note that only one rooted gene tree is included in this directory (to ser
 
 04. Migrate over rooted gene trees folder and species tree to high performance computing environment and carry out (01_phyparts.sh). 
 
+05. Use phypartspiecharts.py (https://github.com/mossmatters/MJPythonNotebooks/blob/master/phypartspiecharts.py) to plot gene tree discordance as pie charts per node and generate figure akin to Figure 4 of the manuscript. 
+
 # Gene and site discordance with IQTree
-1. 
+
+Worklfow below carried out with IQTree v 2.1.3
+
+## Incomplete dataset (no toepads)
+1.
+
+## Complete dataset (no toepads)
