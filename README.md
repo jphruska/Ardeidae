@@ -2,7 +2,7 @@
 
 This repository documents the methodology of Hruska et al. (2023) (doi:#), where we estimated a molecular phylogeny of herons using ultraconserved elements (UCEs) sequenced from 58 species. In addition, we explore approaches that might be useful when encoutering phylogenetic artifacts associated with sequences from historical samples (e.g.,toepads). We also assess patterns of gene-tree discordance across the hypothesized phylogeny, allowing us to more directly assess variation in support across the genome. Lastly we estimate rates of molecular evolution along branches of the phylogeny, and ask whether these patterns corroborate rate patterns previously recovered with other types of genetic data. It is my hope that this repository will be of use to anyone interested in phylogenetic analysis of UCEs, particularly if 'historical' samples are included.   
 
-For inquiries about the analyses or data, don't hesitate to contact me at jackphruska@gmail.com
+For inquiries about the data or analyses, don't hesitate to contact me at jackphruska@gmail.com
 
 ![Illustration of Reddish Egret (Egretta rufescens)](https://github.com/jphruska/Ardeidae/blob/master/reddish_egret.jpg)
 Illustration of the Reddish Egret *Egretta rufescens* by Sarah MacLean. 
