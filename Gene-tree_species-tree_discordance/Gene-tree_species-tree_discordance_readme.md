@@ -21,7 +21,7 @@ Please note that only one rooted gene tree is included in this directory (to ser
 
 # Gene and site discordance with IQTree
 
-Worklfow below carried out with IQTree v 2.1.3
+Workflow below carried out with IQTree v 2.1.3
 
 ## Incomplete dataset (no toepads)
 1.
