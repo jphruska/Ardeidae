@@ -21,9 +21,10 @@ Please note that only one rooted gene tree is included in this directory (to ser
 
 # Gene and site discordance with IQTree
 
-Workflow below carried out with IQTree v 2.1.3
+Workflow below carried out with IQTree v 2.1.3. Here, we quantified gene-concordance factors (gCF) and site-concordance factors (sCF) for each node of the trees. This was carried out on datasets 5 and 6a. 
 
 ## Incomplete dataset (no toepads)
-1.
+
 
 ## Complete dataset (no toepads)
+1. 
