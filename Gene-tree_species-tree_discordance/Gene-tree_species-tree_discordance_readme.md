@@ -24,7 +24,17 @@ Please note that only one rooted gene tree is included in this directory (to ser
 Workflow below carried out with IQTree v 2.1.3. Here, we quantified gene-concordance factors (gCF) and site-concordance factors (sCF) for each node of the trees. This was carried out on datasets 5 and 6a. 
 
 ## Incomplete dataset (no toepads)
-
-
+1. Estimate species tree
+` /usr/local/bin/iqtree-2.1-2.3-MacOSX/bin/iqtree2 -s mafft-nexus-internal-trimmed-gblocks-clean-75p.nexus -p mafft-nexus-internal-trimmed-gblocks-clean-75p.charsets.nexus --prefix concat -bb 1000 -nt AUTO`
+2. Estimate gene trees
+`/usr/local/bin/iqtree-2.1.3-MacOSX/bin/iqtree2 -s mafft-nexus-internal-trimmed-gblocks-clean-75p.nexus -S mafft-nexus-internal-trimmed-gblocks-clean-75p.charsets.nexus --prefix loci -nt 2`
+3. Calculate site concordance and gene concordance factors
+`/usr/local/bin/iqtree-2.1.3-MacOSX/bin/iqtree2 -t concat.treefile --gcf loci.treefile -s mafft-nexus-internal-trimmed-gblocks-clean-75p.nexus --scf 100 --prefix concord`
+   
 ## Complete dataset (no toepads)
-1. 
+1. Estimate species tree
+`/usr/local/bin/iqtree-2.1-2.3-MacOSX/bin/iqtree2 -s mafft-nexus-trimmed-gblocks-clean.nexus -p mafft-nexus-trimmed-gblocks-clean.charsets.nexus --prefix concat -bb 1000 -nt AUTO`
+2. Estimate gene trees
+`/usr/local/bin/iqtree-2.1.3-MacOSX/bin/iqtree2 -s mafft-nexus-trimmed-gblocks-clean.nexus -S mafft-nexus-trimmed-gblocks-clean.charsets.nexus --prefix loci -nt 2`
+4. Calculate site concordance and gene concordance factors
+`/usr/local/bin/iqtree-2.1.3-MacOSX/bin/iqtree2 -t concat.treefile --gcf loci.treefile -s mafft-nexus-trimmed-gblocks-clean.nexus --scf 100 --prefix concord`
