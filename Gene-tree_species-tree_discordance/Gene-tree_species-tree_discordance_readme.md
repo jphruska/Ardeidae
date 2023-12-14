@@ -1,6 +1,6 @@
 # Gene-tree_species-tree_discordance workflow
 
-Please note that only one rooted gene tree is included in this directory (to serve as an example). If you would like access to the remaining rooted gene trees I would be happy to share. The unrooted gene trees for this same dataset are also included in the Dryad repository associated with the manuscript. Files associated with PhyParts analysis are stored in the 'incomplete' directory. Files are associated with the gene and site discordance are stored in the 'complete' and 'incomplete' directories, as appropriate. 
+Please note that only one rooted gene tree is included in this directory (to serve as an example). If you would like access to the remaining rooted gene trees I would be happy to share. The unrooted gene trees for this same dataset are also included in the Dryad repository associated with the manuscript. Files associated with PhyParts analysis are stored in the 'incomplete' directory. Files are associated with the gene and site discordance are stored in the 'complete' and 'incomplete' directories, as appropriate. Alignments are not provided here (due to size limitations). If you would like them, please feel free to reach out to me at jackphruska@gmail.com. 
 
 # Gene-tree discordance with PhyParts
 
