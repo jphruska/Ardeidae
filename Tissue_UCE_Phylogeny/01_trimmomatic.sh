@@ -11,7 +11,7 @@ conda activate phyluce-1.7.1
 illumiprocessor \
 	--input /lustre/scratch/johruska/ardeidae/raw \
 	--output /lustre/scratch/johruska/ardeidae/clean-fastq \
-	--config ./heron_illumiprocessor_all.conf \
+	--config ./heron_illumiprocessor.conf \
 	--cores 8 \
 	--r1-pattern _R1_001 \
 	--r2-pattern _R1_002 \
