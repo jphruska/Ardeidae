@@ -13,7 +13,7 @@ We implemented a target-capture approach, wherein we enriched individual librari
 
 ## Tissue UCE phylogeny 
 
-Initial analyses of the data (see tissue + toepad phylogeny section) revealed that toepad samples contained both substantially shorter and fewer UCEs, when compared to UCEs from tissue samples (See Supplemental Figures S9 and S10). As a result, we decided to estimate the UCE phylogeny with two matrices: the first containing only tissue samples and the other containing tissue and toepad samples. Below we demonstrate the workflow carried out for the matrix that contains only tissue samples. More details and scripts on the UCE workflow are provided in the **Tissue_UCE_phylogeny** folder of this repository. 
+Initial analyses of the data (see tissue + toepad uce phylogeny folder) revealed that toepad samples contained both substantially shorter and fewer UCEs, when compared to UCEs from tissue samples (See Supplemental Figures S9 and S10). As a result, we decided to estimate the UCE phylogeny with two matrices: the first containing only tissue samples and the other containing tissue and toepad samples. Below we demonstrate the workflow carried out for the matrix that contains only tissue samples. More details and scripts on the UCE workflow are provided in the **Tissue_UCE_phylogeny** folder of this repository. 
 
 ## Corrected tissue + toepad UCE phylogeny 
 
